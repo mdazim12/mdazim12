@@ -1,4 +1,3 @@
-![Professional Web Developer](https://media-exp2.licdn.com/dms/image/C5616AQG7vlmO3Tn-OA/profile-displaybackgroundimage-shrink_200_800/0/1651072813185?e=1661990400&v=beta&t=VyCdPpZ5byGjbVh1-lZi3spopKLp-YaDnHnXriQwRtw)
 ### Hi there 👋, I'm MD AZIM UDDIN
 #### Professional Web Developer
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies
