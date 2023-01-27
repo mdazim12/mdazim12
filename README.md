@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm MD AZIM UDDIN
 #### Professional Web Developer
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies
+As a WordPress developer, I have extensive experience building and maintaining custom WordPress websites. My skills include theme development, plugin customization, and website optimization for speed and SEO. I am well-versed in HTML, CSS, and PHP, and have a strong understanding of responsive design and cross-browser compatibility. In addition, I have experience working with website management tools such as WP-CLI and Git. I am dedicated to staying up-to-date with the latest developments in the WordPress community, and am always looking for new ways to improve my skills and deliver high-quality results to my clients.
 
 Skills: ✅ Wordpress ✅PHP ✅Javascript ✅HTML/CSS/Boostrap ✅Photoshop 
 
