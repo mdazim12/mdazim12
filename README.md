@@ -3,7 +3,7 @@
 #### Professional Web Developer
 As a WordPress developer, I have extensive experience building and maintaining custom WordPress websites. My skills include theme development, plugin customization, and website optimization for speed and SEO. I am well-versed in HTML, CSS, and PHP, and have a strong understanding of responsive design and cross-browser compatibility. In addition, I have experience working with website management tools such as WP-CLI and Git. I am dedicated to staying up-to-date with the latest developments in the WordPress community, and am always looking for new ways to improve my skills and deliver high-quality results to my clients.
 
-Skills: ✅ Wordpress ✅PHP ✅Javascript ✅HTML/CSS/Boostrap ✅Photoshop 
+Skills: ✅ Wordpress ✅ PHP ✅ Javascript ✅ HTML/CSS/Boostrap ✅ Photoshop 
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning Laravel 
